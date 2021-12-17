@@ -170,3 +170,8 @@ C:\Users\Thinkpad\Desktop\NguyenManhDuc392\obj\Debug\net5.0\Razor\Views\Universi
 C:\Users\Thinkpad\Desktop\NguyenManhDuc392\obj\Debug\net5.0\Razor\Views\UniversityNMD392\Details.cshtml.g.cs
 C:\Users\Thinkpad\Desktop\NguyenManhDuc392\obj\Debug\net5.0\Razor\Views\UniversityNMD392\Edit.cshtml.g.cs
 C:\Users\Thinkpad\Desktop\NguyenManhDuc392\obj\Debug\net5.0\Razor\Views\UniversityNMD392\Index.cshtml.g.cs
+C:\Users\Thinkpad\Desktop\NguyenManhDuc392\obj\Debug\net5.0\Razor\Views\NMD392\Create.cshtml.g.cs
+C:\Users\Thinkpad\Desktop\NguyenManhDuc392\obj\Debug\net5.0\Razor\Views\NMD392\Delete.cshtml.g.cs
+C:\Users\Thinkpad\Desktop\NguyenManhDuc392\obj\Debug\net5.0\Razor\Views\NMD392\Details.cshtml.g.cs
+C:\Users\Thinkpad\Desktop\NguyenManhDuc392\obj\Debug\net5.0\Razor\Views\NMD392\Edit.cshtml.g.cs
+C:\Users\Thinkpad\Desktop\NguyenManhDuc392\obj\Debug\net5.0\Razor\Views\NMD392\Index.cshtml.g.cs

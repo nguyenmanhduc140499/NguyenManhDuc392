@@ -13,4 +13,6 @@ using NguyenManhDuc392.Models;
         }
 
         public DbSet<NguyenManhDuc392.Models.UniversityNMD392> UniversityNMD392 { get; set; }
+
+        public DbSet<NguyenManhDuc392.Models.NMD392> NMD392 { get; set; }
     }
