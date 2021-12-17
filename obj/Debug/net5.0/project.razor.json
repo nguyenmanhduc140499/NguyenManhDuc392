@@ -15629,8 +15629,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Thinkpad\\Desktop\\NguyenManhDuc392\\Views\\UniversityNMD392\\Details.cshtml",
+      "TargetPath": "Views\\UniversityNMD392\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Thinkpad\\Desktop\\NguyenManhDuc392\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Thinkpad\\Desktop\\NguyenManhDuc392\\Views\\UniversityNMD392\\Create.cshtml",
+      "TargetPath": "Views\\UniversityNMD392\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Thinkpad\\Desktop\\NguyenManhDuc392\\Views\\UniversityNMD392\\Delete.cshtml",
+      "TargetPath": "Views\\UniversityNMD392\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Thinkpad\\Desktop\\NguyenManhDuc392\\Views\\UniversityNMD392\\Index.cshtml",
+      "TargetPath": "Views\\UniversityNMD392\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15641,6 +15661,11 @@
     {
       "FilePath": "c:\\Users\\Thinkpad\\Desktop\\NguyenManhDuc392\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Thinkpad\\Desktop\\NguyenManhDuc392\\Views\\UniversityNMD392\\Edit.cshtml",
+      "TargetPath": "Views\\UniversityNMD392\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
